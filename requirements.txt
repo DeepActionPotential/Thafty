@@ -1,0 +1,16 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+torch>=2.0.0
+faiss-cpu>=1.7.4
+deepface>=0.0.78
+PyQt5>=5.15.9
+qdarkstyle>=3.1.0
+python-telegram-bot>=20.7
+scikit-learn>=1.3.0
+pillow>=10.0.0
+tqdm>=4.65.0
+requests>=2.31.0
+tensorflow>=2.14.0
+ultralytics>=8.0.0
+onnxruntime>=1.16.0
