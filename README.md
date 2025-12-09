@@ -1,5 +1,6 @@
 # Thafty: Real-Time Face & Person Detection Surveillance System
 
+
 ## About the Software
 Thafty is a cutting-edge, AI-powered surveillance and monitoring application designed for real-time face and person detection in video streams. Built with Python and PyQt5, Thafty integrates advanced computer vision models and deep learning techniques to deliver highly accurate detection, recognition, and alerting capabilities. The software is ideal for security, access control, smart offices, and any environment where automated, intelligent monitoring is required. Thafty not only detects people and faces but can identify known individuals, trigger alarms for unknown or masked faces, and instantly notify users via Telegram.
 
